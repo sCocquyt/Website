@@ -7,7 +7,7 @@ var typewriter = new Typewriter(app, {
 
 typewriter
   .pauseFor(1000)
-  .typeString("I'm a rising sophomore at Princeton University pursuing a degree in Electrical and Computer Engineering. I'm especially interested in novel technologies that hold promise in shaping our lives, including quantum computing.") //Add your own tagline
+  .typeString("I'm a rising sophomore at Princeton University pursuing a degree in Electrical and Computer Engineering. I'm especially interested in novel technologies that hold promise in shaping our lives, including quantum computing.")
   .pauseFor(3000)
   .start()
 
